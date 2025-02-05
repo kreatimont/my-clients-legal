@@ -6,7 +6,7 @@ These Terms of Use ("Terms") govern your use of the "My Clients" app. By using t
 
 ## 1. License to Use the App
 
-"My Clients" grants you a non-exclusive, non-transferable, limited license to access and use the app for personal, non-commercial purposes on your device. You may not copy, modify, distribute, or reverse engineer the app without express permission.
+"My Clients" grants you a non-exclusive, non-transferable, limited license to access and use the app on your device. You may not copy, modify, distribute, or reverse engineer the app without express permission.
 
 ## 2. Subscription
 
